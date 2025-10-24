@@ -1,0 +1,14 @@
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\bin\Debug\net9.0\SimpleScanner.exe
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\bin\Debug\net9.0\SimpleScanner.deps.json
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\bin\Debug\net9.0\SimpleScanner.runtimeconfig.json
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\bin\Debug\net9.0\SimpleScanner.dll
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\bin\Debug\net9.0\SimpleScanner.pdb
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.GeneratedMSBuildEditorConfig.editorconfig
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.AssemblyInfoInputs.cache
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.AssemblyInfo.cs
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.csproj.CoreCompileInputs.cache
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.dll
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\refint\SimpleScanner.dll
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.pdb
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\SimpleScanner.genruntimeconfig.cache
+D:\yahya ramdan\. net\Final project Tasks\SimpleScanner\SimpleScanner\obj\Debug\net9.0\ref\SimpleScanner.dll
